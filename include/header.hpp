@@ -3,7 +3,6 @@
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_
 
-
 #include <boost/filesystem.hpp>
 #include <vector>
 #include <string>

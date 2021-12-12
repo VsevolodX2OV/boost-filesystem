@@ -3,7 +3,6 @@
 #include <header.hpp>
 #include <iostream>
 
-
 int main() {
   std::string path("/home/coma/CLionProjects/lab4/misc/ftp");
   Filesystem test(path);

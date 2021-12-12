@@ -125,4 +125,3 @@ std::ostream& operator<<(std::ostream &out,  Filesystem& file_system) {
   file_system.show_account(out);
   return out;
 }
-
